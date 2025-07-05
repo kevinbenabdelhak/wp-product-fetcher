@@ -41,9 +41,10 @@ WP Product Fetcher facilite l'importation de données de produits depuis des sou
 
 ## Changelog
 ### 1.0
-* Premier lancement du plugin.
-* Ajout de la fonctionnalité d'importation de données de produits via une API.
-* Interface d'administration pour gérer les paramètres d'importation.
+- Page d’option pour insérer la clé API product fetcher et la clé api openai
+- Option pour activer la réécriture, le titre, l’import du prix
+- Metabox dans les pages produits pour insérer une URL et scraper le contenu
+- Insère automatiquement les données en AJAX dans la page
 
 ## FAQ
 ### Qu'est-ce que WP Product Fetcher ?
